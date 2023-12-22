@@ -42,10 +42,4 @@ The `script.js` file contains simple JavaScript code to handle form toggling. Yo
 
 The website uses [Ionicons](https://ionicons.com/) for icon integration. The script for Ionicons is included in the HTML file from a CDN. You can customize icons or add more icons by referring to the Ionicons documentation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to use this template as a starting point for your web development projects. Happy coding!
